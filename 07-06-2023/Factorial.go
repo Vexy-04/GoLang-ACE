@@ -11,5 +11,5 @@ func main() {
 	for i = 1; i <= n; i++ {
 		fact = fact * i
 	}
-	fmt.Printf("Factorial of %d is %d", n, fact)
+	fmt.Println("Factorial of %d is %d", n, fact)
 }
