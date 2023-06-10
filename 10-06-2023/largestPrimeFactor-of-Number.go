@@ -1,9 +1,9 @@
 //largest prime factor of a number program in go
 package main
-import {
+import (
 	"fmt"
 	"math"
-}
+)
 func largestPrimFactor(n int) int {
 	largest := 1
 
@@ -18,4 +18,14 @@ func largestPrimFactor(n int) int {
 			n = n/i
 		}
 	}
+
+	if n > 2 {
+		largest = n
+	}
+
+	return largest
+}
+
+func main() {
+	fmt.Println(largestPrimFactor(45))
 }
