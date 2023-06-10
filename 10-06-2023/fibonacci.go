@@ -1,6 +1,6 @@
 package main
 
-import "fmt"{
+import "fmt"
 	func main(){
 		var prev, current, sum int
 		prev = 0
@@ -15,5 +15,4 @@ import "fmt"{
 			current = next
 		}
 		fmt.Println("The sum of even valued terms is ",sum)
-}
 }

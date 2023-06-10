@@ -17,6 +17,5 @@ func main() {
 	for i := 0; i < n; i++ {
 		sum = sum + a[i]
 	}
-
 	fmt.Println("Sum of array is ", sum)
 }
