@@ -11,3 +11,4 @@
 3. [Map](/28-06-2023/map.go)
 
 ### Module 3
+1. [Interface](/28-06-2023/Interface.go)
