@@ -1,21 +1,21 @@
 # GO-Lang AEC
 
 ### Module 1
-1. [Largest Prime factor](/June/10-06-2023/largestPrimeFactor-of-Number.go)
-2. [Fibonacci](/June/10-06-2023/fibonacci.go) 
+1. [Largest Prime factor](/Module%201/largestPrimeFactor-of-Number.go)
+2. [Fibonacci](/Module%201/fibonacci.go) 
 
 ### Module 2
-1. [Palindrome](/June/21-06-2023/Palindrome.go)
-2. [Special Pythagoren Triplet](/June/21-06-2023/SpecialPythagoreanTriplet.go)
-3. [Map](/June/28-06-2023/map.go)
+1. [Palindrome](/Module%202/Palindrome.go)
+2. [Special Pythagoren Triplet](/Module%202/SpecialPythagoreanTriplet.go)
+3. [Map](/Module%202/map.go)
 
 ### Module 3
-1. [Interface](/June/28-06-2023/Interface.go)
-2. [WebServer](/July/05-07-2023/WebServer.go)
+1. [Interface](/Module%203/Interface.go)
+2. [WebServer](/Module%203/WebServer.go)
 
 ### Module 4
-1 .[Dining_philospher](/July/05-07-2023/Dining_philospher.go)
-2 .[Checkpoint Sycnchronization](/July/05-07-2023/Checkpoint_sycnchronization.go)
+1. [Dining Philospher](/Module%204/Dining_philospher.go)
+2. [Checkpoint Sycnchronization](/Module%204/Checkpoint_sycnchronization.go)
 
 ### Module 5
-1 .[HTTP Request](/July/05-07-2023/HTTP_request.go)
+1. [HTTP Request](/Module%205/HTTP_request.go)
